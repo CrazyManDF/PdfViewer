@@ -4,4 +4,4 @@
 
 from https://github.com/barteksc/AndroidPdfViewer
 
-基于gradle配置ndk实现
+基于cmake配置ndk实现
