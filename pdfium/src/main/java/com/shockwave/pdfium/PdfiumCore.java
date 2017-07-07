@@ -18,7 +18,7 @@ public class PdfiumCore {
 
     static {
         // 也可以放在application中加载
-        System.loadLibrary("modpdfium");
+//        System.loadLibrary("modpdfium");
         System.loadLibrary("jniPdfium");
     }
 
